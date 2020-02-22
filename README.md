@@ -1,2 +1,2 @@
-# laravel-sms-api
+# Laravel sms API
 Laravel package to provide SMS API integration.
